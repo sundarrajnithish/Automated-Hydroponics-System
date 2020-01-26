@@ -76,6 +76,7 @@ void setup() {
 
 void loop() 
 {
+  phbalance();
   customKey = customKeypad.getKey();
   if (customKey=='A') // Automatic Mode
   {
