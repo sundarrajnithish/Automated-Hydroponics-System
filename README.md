@@ -1,16 +1,13 @@
-# Automated-Hydroponics-System
-We made a system that sets ideal conditions for a plant to grow without the presence of the soil.
+## Automated-Hydroponics-System
 
-| Hydroponinator | Makeathon 4.0 | Lema Labs |
-
-
-The system was programmed using Arduino IDE.
-An Arduino MEGA 2560, 4x4 Keypad, 16x2 LCD Display, DHT11 Sensor, pH Level Senor, Water Level Sensor, An All Spectrum Grow Light, Fluorescent Lights, 40W Submersible Water Pump and Mini Sump Motors, Large Water Reservoir, Mineral Reservoirs and a Custom made Humidifier were used. A custom made powder coated aluminium frame was designed for this purpose and a custom fitted PVC pipe was placed in an angle on this frame such that the water gradually flows down the reservoir.
-
-This system maintains the ideal conditions of a plant through balancing the water pH by adding minerals from the mineral reservoirs above. The Lighting setup provides the plants essential lighting conditions to grow. To maintain a specific humidity level a humifier is used.
-
-This system can either be automated or controlled manually through a Keypad provided on the frame which is used to operate the whole system in different modes namely Automatic, Manual & Economy Mode.
-
-This system due to it's small form factor will occupy only a small area indoor. Hydrophonics compatible plants can be cultivated on this system provided the necessary supplements are introduced.
-
-Project verified by LEMA LABS
+<ul>
+  <li>Designed and developed an automated indoor hydroponics system to maintain optimal growing conditions for plants using sensors and embedded control.</li>
+  <li>Built the system using Arduino MEGA 2560 as the central controller, interfaced with a 4x4 keypad, 16x2 LCD display, DHT11 (temperature & humidity), pH sensor, water level sensor, grow lights, submersible pump, and a custom humidifier.</li>
+  <li>Created a fully functional control system allowing operation in three modes: Automatic, Manual, and Economy, selected via the keypad interface.</li>
+  <li>Implemented automatic pH balancing by integrating mineral reservoirs that dispense nutrients based on sensor feedback.</li>
+  <li>Used an all-spectrum grow light and fluorescent lighting system to simulate ideal plant growth conditions indoors.</li>
+  <li>Incorporated a water circulation system with a 40W submersible pump, large water reservoir, and angled PVC piping to enable smooth water flow and nutrient delivery.</li>
+  <li>Designed and fabricated a powder-coated aluminum frame with a compact footprint for indoor usability and aesthetic appeal.</li>
+  <li>Developed a humidifier module to maintain consistent humidity levels essential for healthy plant growth.</li>
+  <li>System can be scaled or modified for use with various hydroponics-compatible plants with appropriate nutrient supplementation.</li>
+</ul>
