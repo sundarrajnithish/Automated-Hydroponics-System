@@ -1,16 +1,57 @@
-# Automated-Hydroponics-System
-We made a system that sets ideal conditions for a plant to grow without the presence of the soil.
+# 🌱 Automated Hydroponics System
 
-| Hydroponinator | Makeathon 4.0 | Lema Labs |
+**Hydroponinator**  
+**Makeathon 4.0 | Lema Labs**
 
+We developed a compact, fully functional hydroponics system that creates optimal growing conditions for plants—completely without soil.
 
-The system was programmed using Arduino IDE.
-An Arduino MEGA 2560, 4x4 Keypad, 16x2 LCD Display, DHT11 Sensor, pH Level Senor, Water Level Sensor, An All Spectrum Grow Light, Fluorescent Lights, 40W Submersible Water Pump and Mini Sump Motors, Large Water Reservoir, Mineral Reservoirs and a Custom made Humidifier were used. A custom made powder coated aluminium frame was designed for this purpose and a custom fitted PVC pipe was placed in an angle on this frame such that the water gradually flows down the reservoir.
+![Automated Hydroponics System](Image.jpeg)
 
-This system maintains the ideal conditions of a plant through balancing the water pH by adding minerals from the mineral reservoirs above. The Lighting setup provides the plants essential lighting conditions to grow. To maintain a specific humidity level a humifier is used.
+---
 
-This system can either be automated or controlled manually through a Keypad provided on the frame which is used to operate the whole system in different modes namely Automatic, Manual & Economy Mode.
+## 🛠️ System Overview
 
-This system due to it's small form factor will occupy only a small area indoor. Hydrophonics compatible plants can be cultivated on this system provided the necessary supplements are introduced.
+Our system is programmed using the **Arduino IDE**, and built around the **Arduino MEGA 2560** microcontroller. It incorporates a range of sensors and actuators to monitor and maintain the perfect environment for plant growth.
 
-Project verified by LEMA LABS
+### 🔧 Hardware Components
+
+- **Arduino MEGA 2560**
+- **4x4 Keypad** – User input interface  
+- **16x2 LCD Display** – System feedback and status display  
+- **DHT11 Sensor** – Temperature and humidity sensing  
+- **pH Sensor** – Monitors nutrient solution pH  
+- **Water Level Sensor** – Ensures reservoir levels are optimal  
+- **All-Spectrum Grow Light**  
+- **Fluorescent Lights**  
+- **40W Submersible Water Pump**  
+- **Mini Sump Motors**  
+- **Custom Humidifier** – Controls ambient humidity  
+- **Large Water & Mineral Reservoirs**  
+- **Custom Powder-Coated Aluminum Frame with Angled PVC Channels** – Ensures efficient water flow
+
+---
+
+## 🌿 Features
+
+- **Automated pH Balancing** – Adjusts pH levels by dispensing minerals from dedicated reservoirs  
+- **Lighting Control** – Timed or sensor-based artificial lighting for optimal photosynthesis  
+- **Humidity Regulation** – Maintains required humidity using a custom-built humidifier  
+- **Compact Design** – Space-efficient build suitable for indoor use  
+- **Multi-Mode Operation**:
+  - 🔁 **Automatic Mode** – Fully autonomous operation  
+  - ✋ **Manual Mode** – User-controlled via keypad  
+  - ⚡ **Economy Mode** – Reduced power and water usage for sustainability
+
+---
+
+## 🧪 Applications
+
+This system supports the growth of various hydroponics-compatible plants when provided with the right nutrients. It's ideal for:
+
+- Indoor urban farming  
+- Home gardening  
+- Educational and research purposes
+
+✅ **Project verified by Lema Labs**
+
+**© Hydroponinator Team | Makeathon 4.0**
